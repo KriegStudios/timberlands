@@ -31,11 +31,11 @@ import { FooterComponent } from './footer/footer.component';
         pathMatch: 'full'
       },
       {
-        path: '/home',
+        path: 'home',
         component: HomeComponent
       },
       {
-        path: '/about',
+        path: 'about',
         component: AboutComponent
       }
     ])
