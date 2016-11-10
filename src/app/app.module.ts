@@ -37,6 +37,10 @@ import { FooterComponent } from './footer/footer.component';
       {
         path: 'about',
         component: AboutComponent
+      },
+      {
+        path: 'contact',
+        component: ContactComponent
       }
     ])
   ],
